@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SiJoven</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="titulo_modal"><b>Condiciones Uso de SiJoven</b></string>
+    <string name="disclaimer"><b>\nMEDIANTE LA DESCARGA, LA INSTALACIÓN Y/O EL USO DE LA APLICACIÓN EN SU TERMINAL MANIFIESTA EXPRESAMENTE QUE ESTÁ DE ACUERDO, CUMPLE Y ACEPTA NUESTRAS CONDICIONES DE USO\n</b> <b>\nAviso Legal\n</b> 		    \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet tellus et tortor laoreet varius ut cursus felis. Praesent tempor tempor tortor, sit amet commodo 
+		    justo auctor in. Ut iaculis massa ut dapibus . Suspendisse vulputate, sapien eget eleifend convallis, arcu sem congue libero, non consequat elit elit id lectus. 
+		    Etiam dictum vitae tellus quis iaculis.\n <b>\nAceptación del usuario\n</b> 		    \nCurabitur tincidunt sem et lorem molestie porttitor. Nulla convallis in nulla et aliquam. Phasellus tincidunt sapien a leo congue luctus. Cras elementum vitae urna sed semper. 
+		    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus eu urna rhoncus, feugiat neque et, pharetra nulla. Vestibulum dignissim ornare 
+		    augue non consequat. Maecenas elit sem, pretium non feugiat in, tincidunt eget magna.\n</string>
+    <string name="aceptar">Acepto</string>
+    <string name="cancelar">No Acepto</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_twitter">TwitterActivity</string>
+</resources>
